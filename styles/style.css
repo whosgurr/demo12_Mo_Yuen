@@ -4,6 +4,38 @@
  *-------------------------------------
  */
 
+
+/*
+* --------------------------------------------
+* These are some styles that I am customizing 
+* to over-ride the default bootstrap ones
+*---------------------------------------------
+*/
+.bg-info {
+    background-color: #fdfdfd;
+}
+
+.navbar-light .navbar-brand {
+    color: #fdfdfd;
+}
+
+
+.btn-primary:hover {
+    color: #fdfdfd;
+    background-color: #717973;
+}
+
+.btn-secondary:hover {
+    background-color: #717973;
+}
+
+
+.navbar-brand{
+    font-family: 'Fira Sans', medium;
+    font-size: 2rem;
+
+}
+
 .material-icons.md-18 { font-size: 18px; }
 .material-icons.md-24 { font-size: 24px; }
 .material-icons.md-36 { font-size: 36px; }
